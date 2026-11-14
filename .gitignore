@@ -25,6 +25,9 @@ wheels/
 venv/
 ENV/
 env/
+# Environment Variables
+.env
+.env.*
 
 # Streamlit
 .streamlit/
