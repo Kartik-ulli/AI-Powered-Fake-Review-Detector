@@ -21,3 +21,4 @@ scipy==1.13.0
 joblib==1.4.2
 setuptools==70.0.0
 wheel==0.43.0
+beautifulsoup4==4.12.3
